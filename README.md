@@ -10,7 +10,7 @@
         </div>
         <div class="flex flex-col lg:items-center lg:justify-center">
             <div class="flex flex-col text-sm space-y-2.5">
-                <h2 class="font-semibold mb-5 text-white">Company</h2>
+                <h2 class="font-semibold mb-5 text-white">my company g</h2>
                 <a class="hover:text-slate-500 transition" href="#">
                     About us
                 </a>
